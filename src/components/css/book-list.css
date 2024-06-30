@@ -1,0 +1,25 @@
+.list-item{
+    width: auto;
+    height: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 50px;
+    color: whitesmoke;
+    background-color:  #735290cb;
+    margin: 8px;
+    font-size: 20px;
+}
+
+.delete-btn{
+    width: 80px;
+    height: 25px;
+    border: none;
+    background-color: #A23E48;
+    color: #ADD7F6;
+    font-size: 15px;
+}
+
+.div-checkbox-name{
+    display: flex;
+}
